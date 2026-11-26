@@ -40,11 +40,11 @@ Then run all cells. The GUI uses `ipywidgets`, so it needs Jupyter Notebook or J
 
 Team project for the Multimedia course, Faculty of Computers and Information, Sinai University.
 
-- Ahmed Yasser Ali (202404751)
-- Adham Reda Faisal (202404328)
-- Mohamed Hany (202404956)
-- Ali Mahmoud Mohamed (202401718)
-- Ahmed Ibrahim (202405899)
+- Ahmed Yasser Ali
+- Adham Reda Faisal
+- Mohamed Hany
+- Ali Mahmoud Mohamed
+- Ahmed Ibrahim
 
 ## Notes
 
