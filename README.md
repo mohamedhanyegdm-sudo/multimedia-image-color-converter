@@ -36,6 +36,16 @@ Then run all cells. The GUI uses `ipywidgets`, so it needs Jupyter Notebook or J
 - `Multimedia_Project_Section1.ipynb`: the notebook (imports, conversion functions, GUI).
 - `requirements.txt`: Python packages used.
 
+## Team
+
+Team project for the Multimedia course, Faculty of Computers and Information, Sinai University.
+
+- Ahmed Yasser Ali (202404751)
+- Adham Reda Faisal (202404328)
+- Mohamed Hany (202404956)
+- Ali Mahmoud Mohamed (202401718)
+- Ahmed Ibrahim (202405899)
+
 ## Notes
 
-This is a team project for the Multimedia course at Sinai University. This notebook is Section 1 (RGB to Grayscale). Other team sections can be added as new buttons and functions in the same notebook.
+The notebook implements Section 1 (RGB to Grayscale) together with the Binary, CMY and CMYK conversions, all in the same GUI.
